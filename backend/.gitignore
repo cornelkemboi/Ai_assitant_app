@@ -1,0 +1,5 @@
+.idea/
+backend/.idea/
+backend/api/__pycache__/
+backend/media/documents/
+backend/backend/__pycache__/
