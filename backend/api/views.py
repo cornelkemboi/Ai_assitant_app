@@ -15,6 +15,7 @@ from rest_framework_simplejwt.tokens import RefreshToken
 from .models import Document
 from .serializers import UserSerializer, DocumentSerializer
 
+# run python -m spacy download en_core_web_sm
 nlp = spacy.load('en_core_web_sm')
 
 
