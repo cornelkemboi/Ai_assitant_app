@@ -1,0 +1,10 @@
+/* Dashboard.css */
+.dashboard {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .dashboard button {
+    margin: 1em 0;
+  }
+  
